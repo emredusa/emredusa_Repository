@@ -21,8 +21,9 @@ Commercial Use Includes:
 Integration into commercial products or services
 Use in profit-generating applications
 Corporate training or consulting
-Resale or redistribution for commercial gain
+Resale or redistribution for commercial gain 
 Any business-related implementation
+
 How to Request Commercial Use:
 
 1.Contact me before downloading any content for commercial purposes
